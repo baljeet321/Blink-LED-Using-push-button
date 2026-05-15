@@ -36,8 +36,14 @@ Simple bare-metal STM32 project using direct register manipulation.
 
 ## Demo Video
 
+Onboard LED:
+
 https://github.com/user-attachments/assets/e66f6882-a6b3-424d-802b-b779d809216e
 
-## Author
+External LED:
 
-Baljeet Singh
+https://github.com/user-attachments/assets/1f02530c-7aae-47db-b167-ed8e49344824
+
+
+
+
